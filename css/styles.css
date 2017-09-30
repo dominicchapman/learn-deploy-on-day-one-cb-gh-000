@@ -167,6 +167,10 @@ a:visited {
   background-color: #323232;
 }
 
+#dominic-chapman-card {
+  background-image: url("https://i.imgur.com/J0T3EOI.png")
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
