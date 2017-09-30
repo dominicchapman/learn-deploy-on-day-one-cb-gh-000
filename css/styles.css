@@ -163,6 +163,10 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#dominic-chapman-cover {
+  background-color: #323232;
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
